@@ -1,0 +1,68 @@
+{
+  "" : {
+    "diagnostics" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/склерозник-master.dia",
+    "emit-module-dependencies" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/склерозник-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/склерозник-master-emit-module.dia",
+    "swift-dependencies" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/склерозник-master.swiftdeps"
+  },
+  "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/склерозник/__________App.swift" : {
+    "const-values" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/__________App.swiftconstvalues",
+    "dependencies" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/__________App.d",
+    "diagnostics" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/__________App.dia",
+    "index-unit-output-path" : "/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/__________App.o",
+    "llvm-bc" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/__________App.bc",
+    "object" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/__________App.o",
+    "swift-dependencies" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/__________App.swiftdeps",
+    "swiftmodule" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/__________App~partial.swiftmodule"
+  },
+  "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/склерозник/AppNotificationDelegate.swift" : {
+    "const-values" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/AppNotificationDelegate.swiftconstvalues",
+    "dependencies" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/AppNotificationDelegate.d",
+    "diagnostics" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/AppNotificationDelegate.dia",
+    "index-unit-output-path" : "/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/AppNotificationDelegate.o",
+    "llvm-bc" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/AppNotificationDelegate.bc",
+    "object" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/AppNotificationDelegate.o",
+    "swift-dependencies" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/AppNotificationDelegate.swiftdeps",
+    "swiftmodule" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/AppNotificationDelegate~partial.swiftmodule"
+  },
+  "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/склерозник/ContentView.swift" : {
+    "const-values" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/склерозник/MultiDateCalendarPicker.swift" : {
+    "const-values" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/MultiDateCalendarPicker.swiftconstvalues",
+    "dependencies" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/MultiDateCalendarPicker.d",
+    "diagnostics" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/MultiDateCalendarPicker.dia",
+    "index-unit-output-path" : "/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/MultiDateCalendarPicker.o",
+    "llvm-bc" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/MultiDateCalendarPicker.bc",
+    "object" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/MultiDateCalendarPicker.o",
+    "swift-dependencies" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/MultiDateCalendarPicker.swiftdeps",
+    "swiftmodule" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/MultiDateCalendarPicker~partial.swiftmodule"
+  },
+  "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/склерозник/ReminderDetailView.swift" : {
+    "const-values" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/ReminderDetailView.swiftconstvalues",
+    "dependencies" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/ReminderDetailView.d",
+    "diagnostics" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/ReminderDetailView.dia",
+    "index-unit-output-path" : "/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/ReminderDetailView.o",
+    "llvm-bc" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/ReminderDetailView.bc",
+    "object" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/ReminderDetailView.o",
+    "swift-dependencies" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/ReminderDetailView.swiftdeps",
+    "swiftmodule" : "/Users/shanti/Desktop/study/вайбкожинг/проекты/склерозник/.DerivedData/Build/Intermediates.noindex/склерозник.build/Debug-iphoneos/склерозник.build/Objects-normal/arm64/ReminderDetailView~partial.swiftmodule"
+  }
+}
